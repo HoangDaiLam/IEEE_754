@@ -1,0 +1,1 @@
+📄 This repository has been created to support the study of IEEE 754 single-precision and double-precision formats. Its primary purpose is to facilitate understanding of their underlying mechanisms and to serve as a foundation for the accompanying mathematical report.
